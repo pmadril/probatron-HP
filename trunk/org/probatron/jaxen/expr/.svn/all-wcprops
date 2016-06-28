@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/org/probatron/jaxen/expr
+END
+FunctionCallExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/FunctionCallExpr.java
+END
+ProcessingInstructionNodeStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/ProcessingInstructionNodeStep.java
+END
+XPathExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/XPathExpr.java
+END
+BinaryExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/BinaryExpr.java
+END
+FilterExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/FilterExpr.java
+END
+LocationPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/LocationPath.java
+END
+TextNodeStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/TextNodeStep.java
+END
+NumberExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/NumberExpr.java
+END
+UnionExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/UnionExpr.java
+END
+AdditiveExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/AdditiveExpr.java
+END
+RelationalExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/RelationalExpr.java
+END
+MultiplicativeExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/MultiplicativeExpr.java
+END
+LiteralExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/LiteralExpr.java
+END
+PathExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/PathExpr.java
+END
+EqualityExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/EqualityExpr.java
+END
+UnaryExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/UnaryExpr.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/Predicate.java
+END
+VariableReferenceExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/VariableReferenceExpr.java
+END
+Predicated.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/Predicated.java
+END
+CommentNodeStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/CommentNodeStep.java
+END
+IdentitySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/IdentitySet.java
+END
+LogicalExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/LogicalExpr.java
+END
+AllNodeStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/AllNodeStep.java
+END
+Step.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/Step.java
+END
+NameStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/NameStep.java
+END
+PredicateSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/PredicateSet.java
+END
+XPathFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/XPathFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/package.html
+END
+Expr.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/expr/Expr.java
+END

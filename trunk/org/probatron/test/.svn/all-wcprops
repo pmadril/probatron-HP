@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6/trunk/org/probatron/test
+END
+TestExtensionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/test/TestExtensionFunction.java
+END
+LocatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/org/probatron/test/LocatorTests.java
+END
+XPath2XMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/XPath2XMLTest.java
+END
+RoundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/test/RoundTest.java
+END
+NumberTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/test/NumberTest.java
+END
+ExternalDocumentLocatorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/org/probatron/test/ExternalDocumentLocatorsTest.java
+END
+EqualsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/test/EqualsTest.java
+END
+MatchesFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/org/probatron/test/MatchesFunctionTest.java
+END
+RelaxNGSchemaRelativeURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/test/RelaxNGSchemaRelativeURI.java
+END
+BaseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/test/BaseTests.java
+END
+TranslateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/TranslateTest.java
+END
+XPathTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/org/probatron/test/XPathTestSuite.java
+END
+XIncludeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/XIncludeTests.java
+END
+NotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/org/probatron/test/NotTest.java
+END
+SubstringAfterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/test/SubstringAfterTest.java
+END
+Jaxen193Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/org/probatron/test/Jaxen193Test.java
+END
+SumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/org/probatron/test/SumTest.java
+END
+SchematronQueryEvaluationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/org/probatron/test/SchematronQueryEvaluationTests.java
+END
+ExtensionFunctionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/test/ExtensionFunctionTests.java
+END
+RelaxNGDuplicateSchemaLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/org/probatron/test/RelaxNGDuplicateSchemaLocation.java
+END
+SundryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/org/probatron/test/SundryTests.java
+END
+ConcatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/test/ConcatTest.java
+END
+StringLengthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/test/StringLengthTest.java
+END
+CeilingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/org/probatron/test/CeilingTest.java
+END
+ShailNavigatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/test/ShailNavigatorTest.java
+END
+NamespaceURITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/test/NamespaceURITest.java
+END
+StartsWithTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/org/probatron/test/StartsWithTest.java
+END
+ContainsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/org/probatron/test/ContainsTest.java
+END
+BooleanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/org/probatron/test/BooleanTest.java
+END
+XPathTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/XPathTestBase.java
+END
+SchematronAbstractRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/org/probatron/test/SchematronAbstractRuleTest.java
+END
+SchematronReportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/org/probatron/test/SchematronReportTests.java
+END
+RelaxNGTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/org/probatron/test/RelaxNGTests.java
+END
+XPath1FunctionTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/test/XPath1FunctionTestSuite.java
+END
+SchematronAbstractPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/org/probatron/test/SchematronAbstractPatternTest.java
+END
+RelaxNGValidationAndXPathQA.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/org/probatron/test/RelaxNGValidationAndXPathQA.java
+END
+CountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/test/CountTest.java
+END
+FalseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/test/FalseTest.java
+END
+LocalNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/LocalNameTest.java
+END
+NamespaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/NamespaceTest.java
+END
+IdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/org/probatron/test/IdTest.java
+END
+TestsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/test/TestsBase.java
+END
+SchematronPhaseConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/org/probatron/test/SchematronPhaseConfigTests.java
+END
+PerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/test/PerformanceTest.java
+END
+LastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/org/probatron/test/LastTest.java
+END
+SubstringBeforeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/org/probatron/test/SubstringBeforeTest.java
+END
+PositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/org/probatron/test/PositionTest.java
+END
+StringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/test/StringTest.java
+END
+StressTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/org/probatron/test/StressTests.java
+END
+RelaxNGTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/test/RelaxNGTestSuite.java
+END
+WileySchematronRulesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/test/WileySchematronRulesTests.java
+END
+NormalizeSpaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/test/NormalizeSpaceTest.java
+END
+SchematronTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/org/probatron/test/SchematronTestSuite.java
+END
+SchematronConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/org/probatron/test/SchematronConfigurationTests.java
+END
+TrueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/org/probatron/test/TrueTest.java
+END
+ProbatronTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/test/ProbatronTestSuite.java
+END
+NameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/org/probatron/test/NameTest.java
+END
+EqualityTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/EqualityTests.java
+END
+SubstringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/test/SubstringTest.java
+END
+LangTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/org/probatron/test/LangTest.java
+END
+FloorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/test/FloorTest.java
+END

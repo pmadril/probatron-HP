@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/com/griffinbrown/schematron
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/Report.java
+END
+GlobalXPathVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/GlobalXPathVariable.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/Constants.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/Pattern.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/package.html
+END
+SchematronSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/SchematronSchema.java
+END
+AbstractPatternInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/AbstractPatternInstance.java
+END
+SchematronQueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/SchematronQueryResult.java
+END
+SchematronQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/SchematronQuery.java
+END
+SchematronReportEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/SchematronReportEmitter.java
+END
+SchematronConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/SchematronConfiguration.java
+END
+SchematronConfigurationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/SchematronConfigurationProcessor.java
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/AbstractRule.java
+END
+PatternImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/PatternImpl.java
+END
+Phase.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/Phase.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/Param.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/Assert.java
+END
+AbstractPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/AbstractPattern.java
+END
+NamespaceDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/com/griffinbrown/schematron/NamespaceDeclaration.java
+END
+LocalXPathVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/com/griffinbrown/schematron/LocalXPathVariable.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/com/griffinbrown/schematron/Rule.java
+END

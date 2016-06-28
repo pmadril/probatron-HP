@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/org/probatron/jaxen/function
+END
+CeilingFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/CeilingFunction.java
+END
+StartsWithFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/StartsWithFunction.java
+END
+NormalizeSpaceFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/NormalizeSpaceFunction.java
+END
+NamespaceUriFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/NamespaceUriFunction.java
+END
+ContainsFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/ContainsFunction.java
+END
+TrueFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/TrueFunction.java
+END
+BooleanFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/BooleanFunction.java
+END
+SubstringFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/SubstringFunction.java
+END
+NameFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/NameFunction.java
+END
+LangFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/LangFunction.java
+END
+FloorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/FloorFunction.java
+END
+RoundFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/RoundFunction.java
+END
+NumberFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/NumberFunction.java
+END
+CountFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/CountFunction.java
+END
+FalseFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/FalseFunction.java
+END
+LocalNameFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/LocalNameFunction.java
+END
+IdFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/IdFunction.java
+END
+TranslateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/TranslateFunction.java
+END
+NotFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/NotFunction.java
+END
+SubstringAfterFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/SubstringAfterFunction.java
+END
+LastFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/LastFunction.java
+END
+SubstringBeforeFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/SubstringBeforeFunction.java
+END
+PositionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/PositionFunction.java
+END
+SumFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/SumFunction.java
+END
+StringFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/StringFunction.java
+END
+ConcatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/ConcatFunction.java
+END
+StringLengthFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/StringLengthFunction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/function/package.html
+END

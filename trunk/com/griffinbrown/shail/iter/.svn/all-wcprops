@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/com/griffinbrown/shail/iter
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/package.html
+END
+DescendantOrSelfAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/DescendantOrSelfAxisIterator.java
+END
+ChildAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/ChildAxisIterator.java
+END
+SelfAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/SelfAxisIterator.java
+END
+AncestorOrSelfAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/AncestorOrSelfAxisIterator.java
+END
+ParentAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/ParentAxisIterator.java
+END
+NamespaceAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/NamespaceAxisIterator.java
+END
+PrecedingAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/PrecedingAxisIterator.java
+END
+FollowingAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/FollowingAxisIterator.java
+END
+SingleNodeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/SingleNodeIterator.java
+END
+FollowingSiblingAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/FollowingSiblingAxisIterator.java
+END
+DescendantAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/DescendantAxisIterator.java
+END
+PrecedingSiblingAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/PrecedingSiblingAxisIterator.java
+END
+AttributeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/AttributeIterator.java
+END
+AncestorAxisIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/com/griffinbrown/shail/iter/AncestorAxisIterator.java
+END

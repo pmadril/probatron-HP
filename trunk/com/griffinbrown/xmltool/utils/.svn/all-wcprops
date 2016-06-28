@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/utils
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/utils/Utils.java
+END
+FilteredXMLReaderCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/utils/FilteredXMLReaderCreator.java
+END
+XPathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/utils/XPathUtils.java
+END
+UnicodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/utils/UnicodeFormatter.java
+END
+XPathFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/utils/XPathFactory.java
+END

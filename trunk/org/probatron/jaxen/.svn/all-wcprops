@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/org/probatron/jaxen
+END
+SimpleVariableContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/SimpleVariableContext.java
+END
+QualifiedName.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/QualifiedName.java
+END
+SimpleFunctionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/SimpleFunctionContext.java
+END
+XPathSyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/XPathSyntaxException.java
+END
+SimpleNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/SimpleNamespaceContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/package.html
+END
+UnresolvableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/UnresolvableException.java
+END
+NamedAccessNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/NamedAccessNavigator.java
+END
+ContextSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/ContextSupport.java
+END
+XPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/XPath.java
+END
+JaxenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/JaxenException.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/Context.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/Function.java
+END
+JaxenRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/JaxenRuntimeException.java
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/overview.html
+END
+FunctionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/FunctionContext.java
+END
+VariableContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/VariableContext.java
+END
+Navigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/Navigator.java
+END
+UnsupportedAxisException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/UnsupportedAxisException.java
+END
+AbsolutizingJaxenHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/AbsolutizingJaxenHandler.java
+END
+XPathFunctionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/XPathFunctionContext.java
+END
+FunctionCallException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/FunctionCallException.java
+END
+NamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/NamespaceContext.java
+END
+JaxenConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/JaxenConstants.java
+END
+JaxenHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/JaxenHandler.java
+END

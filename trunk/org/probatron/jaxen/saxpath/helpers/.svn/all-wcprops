@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/org/probatron/jaxen/saxpath/helpers
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/helpers/package.html
+END
+XPathReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/helpers/XPathReaderFactory.java
+END
+DefaultXPathHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/helpers/DefaultXPathHandler.java
+END

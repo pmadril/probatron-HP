@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/27/trunk
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/27/trunk/build.xml
+END
+ant.bat
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/8/trunk/ant.bat
+END

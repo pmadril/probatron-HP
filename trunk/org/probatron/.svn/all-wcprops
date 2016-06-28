@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/27/trunk/org/probatron
+END
+ShailXPathFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/org/probatron/ShailXPathFactory.java
+END
+ShailHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/org/probatron/ShailHandler.java
+END
+XPathVariableContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/org/probatron/XPathVariableContext.java
+END
+UserDefinedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/org/probatron/UserDefinedMessage.java
+END
+QuickdomXPath.java_iter
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/org/probatron/QuickdomXPath.java_iter
+END
+ShailXPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/27/trunk/org/probatron/ShailXPath.java
+END
+ReportEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/org/probatron/ReportEmitter.java
+END
+BuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/27/trunk/org/probatron/BuilderImpl.java
+END
+ProbatronSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/org/probatron/ProbatronSession.java
+END
+QuickdomNavigator.java_iter
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/QuickdomNavigator.java_iter
+END
+ShailNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/org/probatron/ShailNavigator.java
+END
+AbsolutizedShailXPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/AbsolutizedShailXPath.java
+END
+ProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/org/probatron/ProcessingInstruction.java
+END
+DocumentRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/org/probatron/DocumentRoot.java
+END
+SchematronQAHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/org/probatron/SchematronQAHandler.java
+END
+ShailTreeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/org/probatron/ShailTreeBuilder.java
+END
+ShailXPathEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/org/probatron/ShailXPathEvaluator.java
+END
+OnDiskMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/org/probatron/OnDiskMessageHandler.java
+END
+ElementNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/27/trunk/org/probatron/ElementNameTest.java
+END
+QAHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/org/probatron/QAHandler.java
+END
+InMemoryMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/org/probatron/InMemoryMessageHandler.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/27/trunk/org/probatron/Comment.java
+END
+QueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/27/trunk/org/probatron/QueryHandler.java
+END
+AttributeNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/27/trunk/org/probatron/AttributeNameTest.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/27/trunk/org/probatron/Query.java
+END
+Probatron.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/org/probatron/Probatron.java
+END
+CachingEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/org/probatron/CachingEntityResolver.java
+END
+SchematronXPathVariableContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/SchematronXPathVariableContext.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/27/trunk/org/probatron/Text.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/27/trunk/org/probatron/Node.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/org/probatron/Variable.java
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/org/probatron/NodeTest.java
+END
+QueryEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/org/probatron/QueryEvaluator.java
+END
+CustomEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/27/trunk/org/probatron/CustomEntityResolver.java
+END
+XPathLocatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/org/probatron/XPathLocatorImpl.java
+END
+QuickdomXPathQuery.java_iter
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/org/probatron/QuickdomXPathQuery.java_iter
+END
+XPathVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/org/probatron/XPathVariable.java
+END

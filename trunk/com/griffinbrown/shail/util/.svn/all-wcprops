@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/27/trunk/com/griffinbrown/shail/util
+END
+ShailListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/27/trunk/com/griffinbrown/shail/util/ShailListIterator.java
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/com/griffinbrown/shail/util/IntArray.java
+END
+ShailIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/com/griffinbrown/shail/util/ShailIterator.java
+END
+CharArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/com/griffinbrown/shail/util/CharArray.java
+END
+ShailList.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/com/griffinbrown/shail/util/ShailList.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/com/griffinbrown/shail/util/package.html
+END
+ShailSingletonList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/com/griffinbrown/shail/util/ShailSingletonList.java
+END

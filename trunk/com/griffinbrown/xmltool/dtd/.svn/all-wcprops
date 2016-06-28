@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd
+END
+Dtd.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/Dtd.java
+END
+ElemTypeDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/ElemTypeDecl.java
+END
+AttDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/AttDecl.java
+END
+NotationDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/NotationDecl.java
+END
+EntityDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/EntityDecl.java
+END
+UnparsedEntityDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/UnparsedEntityDecl.java
+END
+ExternalEntityDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/com/griffinbrown/xmltool/dtd/ExternalEntityDecl.java
+END

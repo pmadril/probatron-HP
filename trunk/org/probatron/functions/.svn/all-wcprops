@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/27/trunk/org/probatron/functions
+END
+AsAbsoluteURIFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/org/probatron/functions/AsAbsoluteURIFunction.java
+END
+RegExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/27/trunk/org/probatron/functions/RegExp.java
+END
+CoreLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/functions/CoreLibrary.java
+END
+InNodeSetFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/functions/InNodeSetFunction.java
+END
+RegExpFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/org/probatron/functions/RegExpFunction.java
+END
+CharToIntFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/functions/CharToIntFunction.java
+END
+DocumentFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/functions/DocumentFunction.java
+END
+IsInCdataFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/functions/IsInCdataFunction.java
+END
+StringTokenizeFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/org/probatron/functions/StringTokenizeFunction.java
+END
+FileExistsFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/functions/FileExistsFunction.java
+END

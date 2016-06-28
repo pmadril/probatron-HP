@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/org/probatron/jaxen/pattern
+END
+LocationPathPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/LocationPathPattern.java
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/NodeTest.java
+END
+UnionPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/UnionPattern.java
+END
+NodeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/NodeTypeTest.java
+END
+PatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/PatternParser.java
+END
+TextNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/TextNodeTest.java
+END
+PatternHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/PatternHandler.java
+END
+NamespaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/NamespaceTest.java
+END
+AnyNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/AnyNodeTest.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/Pattern.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/package.html
+END
+NameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/NameTest.java
+END
+AnyChildNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/AnyChildNodeTest.java
+END
+NoNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/pattern/NoNodeTest.java
+END

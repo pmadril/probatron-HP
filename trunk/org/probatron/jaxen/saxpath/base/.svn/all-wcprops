@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/org/probatron/jaxen/saxpath/base
+END
+Verifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/base/Verifier.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/base/package.html
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/base/Token.java
+END
+XPathLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/base/XPathLexer.java
+END
+TokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/base/TokenTypes.java
+END
+XPathReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/org/probatron/jaxen/saxpath/base/XPathReader.java
+END
